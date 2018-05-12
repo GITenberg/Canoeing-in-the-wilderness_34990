@@ -1,0 +1,44 @@
+_repo: Canoeing-in-the-wilderness_34990
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammell, Will
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '37375'
+    url: http://www.gutenberg.org/2009/agents/37375
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+  editor:
+    agent_name: Johnson, Clifton
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '36996'
+    url: http://www.gutenberg.org/2009/agents/36996
+description: ''
+gutenberg_issued: '2011-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34990'
+  lccn: '16011058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piscataquis County (Me.) -- Description and travel'
+- !lcsh 'Canoes and canoeing'
+- !lcc 'F001'
+- !lcsh 'Maine -- Description and travel'
+title: Canoeing in the wilderness
+url: http://www.gutenberg.org/ebooks/34990
